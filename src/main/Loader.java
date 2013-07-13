@@ -2,7 +2,7 @@ package main;
 
 public class Loader {
 	/**
-	 * Entry Point
+	 * Entry Point for System
 	 * @param args
 	 */
 	public static void main(String[] args) {
