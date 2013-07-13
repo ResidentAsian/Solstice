@@ -6,7 +6,6 @@ public class Loader {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// Loader is the entry point of the application
-		System.out.println("Test again");
+		/* Loader is the entry point of the application */ 
 	}
 }
