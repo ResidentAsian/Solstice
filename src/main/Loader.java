@@ -7,6 +7,6 @@ public class Loader {
 	 */
 	public static void main(String[] args) {
 		/* Loader is the entry point of the application */
-		system.out.println("Start");
+		System.out.println("Start");
 	}
 }
